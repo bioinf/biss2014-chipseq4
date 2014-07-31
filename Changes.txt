@@ -1,0 +1,12 @@
+part one
+1.Работа с FASTQ файлом в FastQC. 
+Команда -- fastq quality filter -q10 -p100 -i ИяФайла.fastq
+2.Выравняли с помощью bwa mem. Риды выравниваются на референс генома человека.(около 5часов)
+3.Снова фильтруем. Затем испльзовали пакет samtools.
+-view --        конвертируем sam>bam(bam -- бинарный формат) 
+-sort --        без сортировки не идет индексирования
+-index --       индексируем 
+-rvdup --       удаляет димеры оставшиеся после пцр
+-view -F -q1 -- filtering flag and minimum mapping quality
+4.Визуализировали наш bam файл
+инструмент -- UGENE ASSembly Browser
