@@ -1,0 +1,50 @@
+K562.map.sam
+less file #read file
+SPADE:2:1:3390:1256#0   0       chr3    162623030       48      36M     *       0       0       CTGAATGTCATTTTATACAGGAAAAACTGCTCCAAA    gggggggggegggggggggggggfgggggggggggg    NM:i:0  AS:i:36 XS:i:20
+SPADE:2:1:3410:1251#0   0       chr3    162623030       48      36M     *       0       0       CTGAATGTCATTTTATACAGGAAAAACTGCTCCAAA    _\WWRcccacccc_cM^aaaccccYcca_ccccR_Y    NM:i:0  AS:i:36 XS:i:20
+SPADE:2:1:3552:1257#0   0       chr15   72167739        51      36M     *       0       0       GAACAATGATAAAATTTGTTCAAATGCCTTCAGAAA    hhhhhhhhhhhhgfhhhhhhhhhhhghhhhhhhghh    NM:i:0  AS:i:36 XS:i:19
+SPADE:2:1:3579:1253#0   16      chr3    48343170        51      36M     *       0       0       GCTACGCAGGGTGGCGGAACCCAGAGGACCGGACGG    ccfffffccfffff_cfff]ac_cWcf]ffffffff    NM:i:0  AS:i:36 XS:i:0
+SPADE:2:1:3619:1258#0   0       chr1    189302820       51      36M     *       0       0       TAAGAAAAATAGTACGGATATGATTTTGTCTATTGT    hhhhhhhhhhhhhhhhhhhhhhhhhhhghhhhghhd    NM:i:0  AS:i:36 XS:i:0
+SPADE:2:1:3704:1249#0   16      chr2    133675764       51      36M     *       0       0       CATCAACATTGCAATGAGCTCAGAAGGATCTGGTAC    hhhhhhhhhhhhghhhfhhhhhhhhhhhhhhhhhhh    NM:i:0  AS:i:36 XS:i:0
+SPADE:2:1:3835:1257#0   0       chr2    87287206        0       36M     *       0       0       CCTGCAAATGTGCAAGACATATAAGTATCTGAATTG    hhhhhhghhhhhhhhhhhhhhhhhhhhhhhhhhhhh    NM:i:0  AS:i:36 XS:i:36
+SPADE:2:1:4042:1252#0   16      chrX    129298537       51      36M     *       0       0       CTCCTACAGGTGGATCATTCATTGCCCCCATGAAGT    fehhhghhhhhhhhghhhgghhhhhhhhhhghhhhh    NM:i:0  AS:i:36 XS:i:0
+SPADE:2:1:4121:1249#0   0       chr7    27863088        51      36M     *       0       0       TTAGTAGTTCCTAGCAAAGGTAGAATTACAACACAG    fffffdcaeeggfdgfffff\f^fdfffffgg_gdd    NM:i:0  AS:i:36 XS:i:0
+SPADE:2:1:4226:1258#0   16      chr10   87112157        37      36M     *       0       0       TACTTTCTTTAATCCCATGAGACAGTCCAGTATAAT    hghghhhhhhhhhhhhhghhghhhhhhhhhhhhhhg    NM:i:1  AS:i:31 XS:i:0
+SPADE:2:1:4288:1249#0   0       chr3    152811490       48      36M     *       0       0       CATTTAAAGTCACCAATGACTTTACATTTTCTAACA    baa_aa\aaYcccca^Z\Saccaaaacaccccccca    NM:i:0  AS:i:36 XS:i:20
+SPADE:2:1:4367:1253#0   0       chr11   92029899        51      36M     *       0       0       TATCTCATCCATGACCTCCCTGTTTGCGGATGGTGC    hhhhhhhhhhhhhhhhhhhhhhhhhghhhhghh]hf    NM:i:0  AS:i:36 XS:i:19
+SPADE:2:1:4523:1248#0   0       chr5    159189383       42      36M     *       0       0       AATCCGTGACTTGGCACATAATAGCATTCAATAAAT    ffafffdf]ffff]fff[fffffafffffffaffc`    NM:i:0  AS:i:36 XS:i:22
+SPADE:2:1:4544:1254#0   0       chr4    180286955       45      36M     *       0       0       ATTTTATGTATAAGAATGACAATATAGGCTGGGCGT    gggggcggggfffffgg__ggcagcgggggggg_]V    NM:i:0  AS:i:36 XS:i:21
+SPADE:2:1:4715:1252#0   4       *       0       0       *       *       0       0       ACATACAATTTTATACAGTTTCTTACATTTCTCTGT    hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh    AS:i:0  XS:i:0
+SPADE:2:1:5084:1248#0   16      chr8    8666834 51      36M     *       0       0       CAAGGTTGGAGACAGCTGCTCTTGGTGATATAGACA    ghhhghhhhhhhhhhhghhfghhhhhhhhhhhhghh    NM:i:0  AS:i:36 XS:i:0
+SPADE:2:1:5105:1254#0   16      chr15   99348859        48      36M     *       0       0       CAAGGTCAGGAGGAAGTATTTGTTTTGGTTGTCTTG    ghhhgchghhcghhgghhhhhhhhhhghhhhhhhhh    NM:i:0  AS:i:36 XS:i:20
+SPADE:2:1:5365:1253#0   16      chr6    49051412        51      36M     *       0       0       GCTTGTGCTCATGGAGTAAGCATGTAGGTCATTCCT    ggggggggggggggfggggggggggggggggggggg    NM:i:0  AS:i:36 XS:i:0
+SPADE:2:1:5507:1247#0   16      chr20   48594906        51      36M     *       0       0       TACCCATGTGATGACGATTCAAAACAAAAAAATGTT    fdgggggggggfggggggggggggggggggggegde    NM:i:0  AS:i:36 XS:i:19
+SPADE:2:1:5608:1253#0   16      chr3    148440080       45      36M     *       0       0       CTTGATGGAAGTTTGAACATATTAAATGAAGACATG    dhhgehhhhhhghhhhhhhhfhhfhgghdhhhhhgh    NM:i:0  AS:i:36 XS:i:21
+SPADE:2:1:5657:1254#0   4       *       0       0       *       *       0       0       CTTCTCGCTCTTCGTCGCCTTGTGCCTCTTAATCAA    ffffceffffgggggegggggfgggfgggggggggg    AS:i:0  XS:i:0
+SPADE:2:1:5682:1258#0   16      chr7    108809336       0       36M     *       0       0       ACTGAGGCAGGAGGATTGGTTGAGCCCAGGAGGTCA    fhhhfhhfhhhhhhghhhhhhhhhhhhhhhghhhgg    NM:i:0  AS:i:36 XS:i:35
+SPADE:2:1:5732:1249#0   0       chr6    108786422       51      36M     *       0       0       CTCTAAATTTAGCTCCTTATTTACACTGAAAAAGAA    hhhhhhhhdhghhhhhhhhhh:
+
+samtools view -b -S K562.map.sam > K562.map2.bam
+[samopen] SAM header is present: 25 sequences.
+
+samtools view -b -S file.sam > newfile.bam  #change format from sam to bam
+
+samtools sort file.bam newfile  #K562.map33.bam K562.map331 #sort file to index it then
+
+samtools index file #index file  last done
+
+samtools rmdup file newfile #filtrate file
+
+samtools view -F 4 -q 1 file newfile #filtrate file
+
+UGENE Assembly Browser
+
+
+MAC
+
+macs2 -t k562.map2sort_rmdup_viewF.bam-BAM -g hs --name=k562.lastmacs.bam --format=BAM --t.size=36 --wig --space=25 --mfold=10,30
+
+macs2 -t k562.map2sort_rmdup_viewF.bam-BAM -g hs --name=k562.lastmacs.bam --format=BAM --t.size=36 --BED --space=25 --mfold=10,30
+
+
+macs2 -t k562.map2sort_rmdup_viewF.bam -g hs --name=k562.lastmacs.bam --format=BAM --t.size=36 --mfold=10,30

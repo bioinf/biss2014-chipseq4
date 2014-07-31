@@ -1,0 +1,10 @@
+fastqc nameofchipseq.fastq #создание отчета fastqc
+fastq_quality_trimmer -t -q -i -o -v -Q 33 #обрезает некачественные риды по заданным параметрам
+# анализиру€ данные fastqc, решили использовать программу fastq_quality_filter, котора€ отфильтрует некачественные риды
+fastq_quality_filter Q64 -q10 -p100 -i -o -v #фильтраци€
+fastqc filteredfile.fastq 
+cat chr{?,??}.fa  > /home/chipseq2/kate/hg19.fa #сливает все файлы (хромосомы) в один(multi FASTA)
+bwa index hg19.fa #индексируем multi FASTA файл
+bwa mem hg19.fa filteredfile.fastq -t > newfile.sam # картируем наши почищенные риды в 
+ls -ln hg19.fa # узнать размер файла
+git clone # клонировать репозиторий в github https://github.com/bioinf/biss2014-chipseq2.git
