@@ -1,0 +1,7 @@
+macs2 -t k562.map2sort_rmdup_viewF.bam -g hs --name=k562.macs.bam --format=BAM --tsize=36 --mfold=10,30
+
+
+скачали IGV посмотрели там наш файл с пиками, белок IRF1 
+
+учились работать в UGENE Workflow Desginer
+
